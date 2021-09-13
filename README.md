@@ -5,7 +5,7 @@ Some of the topics learnt for this assignment :
 * Section Tags  
 * Inline Tags 
 * Links, lists
-* Using images 
+* Incorporating images 
 
 [Check out](https://github.com/sagarw749/Assignment_2_Modern_Web_Dev_Frameworks/blob/main/index.html) the code for index.html
  
